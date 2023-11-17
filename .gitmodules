@@ -1,0 +1,3 @@
+[submodule "core"]
+	path = dashboard/core
+	url = https://github.com/sudesh1611/pycore.git
