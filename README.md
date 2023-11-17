@@ -1,4 +1,5 @@
-# SwayamVaha
+# <img src="https://github.com/sudesh1611/SwayamVaha/assets/10352292/1a0b31f3-79c9-4dc3-a6f9-869123096b8e" width="30" height="30"> SwayamVaha
+
 
 A Django based dashboard to manage vulnerablities reported by Twistlock and Blackduck. SwayamVaha provides functionality to mark vulnerabilities false positives so that in future scans, they can be automatically ignored. SwayamVaha with the help of [JiraAuto](https://github.com/sudesh1611/JiraAuto) manages a database of mapping of Jira Issues raised for vulnerabilities. SwayamVaha exposes REST APIs that are used by other projects to fetch/populate data.
 
