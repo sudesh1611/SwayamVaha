@@ -5,7 +5,7 @@ A Django based dashboard to manage vulnerablities reported by Twistlock and Blac
 
 ## Requirements
 
-SwayamVaha requires Python 3.6 or greater. Additional dependencies can be resolved by executing following two commands:
+SwayamVaha requires Python 3.6 or greater. Before installing dependencies, make sure to execute `git submodule update --init` to initialize the git submodules. Additional dependencies can be resolved by executing following two commands:
 
 >`pip3 install -r dashboard/core/requirements.txt`
 >
